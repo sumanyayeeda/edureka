@@ -1,0 +1,8 @@
+Git Commands
+•	Clone 
+•	Add 
+•	Commit
+•	Push
+•	Pull
+•	Fetch
+•	checkout
